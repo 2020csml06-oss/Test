@@ -1,7 +1,7 @@
 const http = require('http');
 
 const server = http.createServer((req, res) => {
-    res.end('Hello from Jenkins Auto Deploy 🚀');
+    res.end('Auto build working 🔥');
 });
 
 server.listen(3000, () => {
