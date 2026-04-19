@@ -1,7 +1,7 @@
 const http = require('http');
 
 const server = http.createServer((req, res) => {
-    res.end('Auto build working 🔥');
+    res.end('Auto webhook to ngrok build working 🔥');
 });
 
 server.listen(3000, () => {
