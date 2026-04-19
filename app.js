@@ -33,7 +33,7 @@ const server = http.createServer((req, res) => {
         <body>
             <div class="box">
                 <h1>🚀 Jenkins Auto Deploy Working</h1>
-                <p>i want fix Test 1 it are not again check 🔥</p>
+                <p>i want fix Test 2 it are not again check 🔥</p>
                 <p>Status: <span style="color:yellow;">SUCCESS</span></p>
             </div>
         </body>
